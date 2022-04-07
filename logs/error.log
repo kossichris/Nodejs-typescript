@@ -1,0 +1,151 @@
+2022-04-05 03:59:38:5938 [error] This is an error log
+2022-04-05 03:59:38:5938 [error] This is an error log
+2022-04-05 04:04:37:437 [error] This is an error log
+2022-04-05 04:16:06:166 [error] Error occurred while connecting to the database getaddrinfo EAI_AGAIN undefined
+2022-04-05 04:24:22:2422 [error] Error occurred while connecting to the database bad auth : Authentication failed.
+2022-04-05 04:25:03:253 [error] Error occurred while connecting to the database bad auth : Authentication failed.
+2022-04-05 04:28:13:2813 [error] Error occurred while connecting to the database bad auth : Authentication failed.
+2022-04-05 04:30:40:3040 [error] Error occurred while connecting to the database bad auth : Authentication failed.
+2022-04-05 04:31:26:3126 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 05:58:45:5845 [error] Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User" : undefined
+2022-04-05 06:04:18:418 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 06:54:09:549 [error] Request body validation failed : "email" must be a valid email
+2022-04-05 06:54:09:549 [error] Validation failed : "email" must be a valid email
+2022-04-05 07:21:26:2126 [error] Authentication failed : Incorrect username or password
+2022-04-05 09:33:56:3356 [error] Authorization failed : User is not authorized to perform /api/v1/rents
+2022-04-05 09:34:59:3459 [error] Authorization failed : User is not authorized to perform /api/v1/rents
+2022-04-05 09:37:48:3748 [error] Authorization failed : User is not authorized to perform /api/v1/rents
+2022-04-05 09:37:50:3750 [error] Authorization failed : User is not authorized to perform /api/v1/rents
+2022-04-05 09:38:25:3825 [error] Schema hasn't been registered for model "user".
+Use mongoose.model(name, schema) : undefined
+2022-04-05 09:49:18:4918 [error] Request body validation failed : "monthly_plan_pay" must be a number
+2022-04-05 09:49:18:4918 [error] Request url parameters validation failed : "id" is required
+2022-04-05 09:49:18:4918 [error] Validation failed : "monthly_plan_pay" must be a number
+2022-04-05 09:51:27:5127 [error] Request body validation failed : "acc_status" is not allowed
+2022-04-05 09:51:27:5127 [error] Request url parameters validation failed : "id" is required
+2022-04-05 09:51:27:5127 [error] Validation failed : "acc_status" is not allowed
+2022-04-05 09:51:52:5152 [error] Request body validation failed : "salary" is not allowed
+2022-04-05 09:51:52:5152 [error] Request url parameters validation failed : "id" is required
+2022-04-05 09:51:52:5152 [error] Validation failed : "salary" is not allowed
+2022-04-05 10:37:47:3747 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 10:47:45:4745 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 10:49:10:4910 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 10:50:50:5050 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:02:38:238 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:35:46:3546 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:37:09:379 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:37:55:3755 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:40:08:408 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:42:06:426 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:43:00:430 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 11:54:27:5427 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-05 14:53:15:5315 [error] Request body validation failed : "confirm" is not allowed
+2022-04-05 14:53:15:5315 [error] Validation failed : "confirm" is not allowed
+2022-04-05 14:53:15:5315 [error] Request body validation failed : "confirm" is not allowed
+2022-04-05 14:53:15:5315 [error] Validation failed : "confirm" is not allowed
+2022-04-05 14:53:55:5355 [error] Request body validation failed : "confirm" is not allowed
+2022-04-05 14:53:55:5355 [error] Validation failed : "confirm" is not allowed
+2022-04-05 14:57:59:5759 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:01:15:115 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:02:34:234 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:05:59:559 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:10:20:1020 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:11:03:113 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:11:36:1136 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:12:24:1224 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:14:58:1458 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:15:41:1541 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:15:41:1541 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:18:18:1818 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:19:54:1954 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:19:57:1957 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:20:04:204 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:20:04:204 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:21:13:2113 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:21:13:2113 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:21:43:2143 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:21:43:2143 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:27:56:2756 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:40:43:4043 [error] E11000 duplicate key error collection: kwaba_test_api.users index: email_1 dup key: { email: "chriskossi@gmail.com" } : undefined
+2022-04-05 15:41:22:4122 [error] User with email koko@gmail.com already exists : null
+2022-04-05 15:42:26:4226 [error] User with email yola@gmail.com already exists : null
+2022-04-05 15:57:55:5755 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 15:57:55:5755 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 18:33:00:330 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 18:59:44:5944 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:02:06:26 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:02:46:246 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:09:41:941 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:22:17:2217 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:25:30:2530 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:27:00:270 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-05 19:27:41:2741 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-06 03:19:15:1915 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-06 03:20:32:2032 [error] Authentication failed : null
+2022-04-06 03:23:59:2359 [error] Authentication failed : null
+2022-04-06 03:25:07:257 [error] Authentication failed : null
+2022-04-06 03:28:46:2846 [error] Authentication failed : null
+2022-04-06 03:29:34:2934 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-06 03:31:14:3114 [error] Authentication failed : null
+2022-04-06 03:33:02:332 [error] Authentication failed : null
+2022-04-06 03:34:44:3444 [error] Authentication failed : null
+2022-04-06 03:36:08:368 [error] Authentication failed : null
+2022-04-06 03:50:03:503 [error] User with email chrishouns21@gmail.com already exists : null
+2022-04-06 03:50:31:5031 [error] Authentication failed : null
+2022-04-06 03:51:38:5138 [error] Authentication failed : null
+2022-04-06 03:54:43:5443 [error] Authentication failed : null
+2022-04-06 03:55:17:5517 [error] Authorization failed : User is not authorized to perform /api/v1/rents
+2022-04-06 03:57:04:574 [error] Request body validation failed : "monthly_plan_pay" must be a string
+2022-04-06 03:57:04:574 [error] Validation failed : "monthly_plan_pay" must be a string
+2022-04-06 03:57:47:5747 [error] User with id undefined not found : null
+2022-04-06 04:30:07:307 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-06 04:31:56:3156 [error] Authentication failed : null
+2022-04-06 08:05:18:518 [error] Authentication failed : null
+2022-04-06 08:09:32:932 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:11:14:1114 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:12:30:1230 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:28:41:2841 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:32:32:3232 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:34:16:3416 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:41:22:4122 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:47:13:4713 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:47:13:4713 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:49:01:491 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:50:10:5010 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:51:07:517 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:51:35:5135 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:53:28:5328 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:53:28:5328 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:54:51:5451 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:58:11:5811 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 08:58:11:5811 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 09:06:05:65 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-06 09:09:04:94 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 09:10:35:1035 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 09:15:44:1544 [error] Cannot read properties of undefined (reading '_id') : undefined
+2022-04-06 09:58:53:5853 [error] Request body validation failed : "monthly_plan_pay" must be a string
+2022-04-06 09:58:53:5853 [error] Request url parameters validation failed : "id" is required
+2022-04-06 09:58:53:5853 [error] Validation failed : "monthly_plan_pay" must be a string
+2022-04-06 10:04:06:46 [error] Request body validation failed : "monthly_plan_pay" must be a string
+2022-04-06 10:04:06:46 [error] Request url parameters validation failed : "id" is required
+2022-04-06 10:04:06:46 [error] Validation failed : "monthly_plan_pay" must be a string
+2022-04-06 10:06:14:614 [error] Request body validation failed : "is_approved" is required
+2022-04-06 10:06:14:614 [error] Request url parameters validation failed : "id" is required
+2022-04-06 10:06:14:614 [error] Validation failed : "is_approved" is required
+2022-04-06 10:07:52:752 [error] Request body validation failed : "id" is not allowed
+2022-04-06 10:07:52:752 [error] Request url parameters validation failed : "id" is required
+2022-04-06 10:07:52:752 [error] Validation failed : "id" is not allowed
+2022-04-06 10:12:03:123 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:14:16:1416 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:14:16:1416 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:15:36:1536 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:17:05:175 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:18:14:1814 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:19:34:1934 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:25:02:252 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:25:49:2549 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:26:39:2639 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:27:53:2753 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 10:54:50:5450 [error] Authorization failed : User is not authorized to perform update on the requested rent
+2022-04-06 15:03:40:340 [error] Error occurred while connecting to the database connect ECONNREFUSED 127.0.0.1:27017
+2022-04-06 15:05:47:547 [error] Authorization failed : User is not authorized to perform update on the requested rent
